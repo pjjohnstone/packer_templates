@@ -60,11 +60,11 @@
             <SetupUILanguage>
                 <UILanguage>en-US</UILanguage>
             </SetupUILanguage>
-            <InputLocale>en-GB</InputLocale>
-            <SystemLocale>en-GB</SystemLocale>
-            <UILanguage>en-GB</UILanguage>
+            <InputLocale>en-US</InputLocale>
+            <SystemLocale>en-US</SystemLocale>
+            <UILanguage>en-US</UILanguage>
             <UILanguageFallback>en-US</UILanguageFallback>
-            <UserLocale>en-GB</UserLocale>
+            <UserLocale>en-US</UserLocale>
         </component>
     </settings>
     <settings pass="offlineServicing">
